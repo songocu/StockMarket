@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: ApplicationWindow
+Bundle-SymbolicName: home.tudor.work.applicationwindow;singleton:=true
+Bundle-Version: 1.0.0.qualifier
+Require-Bundle: org.eclipse.core.runtime,
+ org.eclipse.ui,
+ javax.persistence,
+ org.junit
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
